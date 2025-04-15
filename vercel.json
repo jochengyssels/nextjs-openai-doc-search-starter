@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/kitespot-run.js": {
+        "schedule": "0 * * * *"
+      }
+    }
+  }
+  

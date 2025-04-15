@@ -23,7 +23,7 @@
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.3",
     "@radix-ui/react-label": "^2.0.1",
-    "@supabase/supabase-js": "^2.13.0",
+    "@supabase/supabase-js": "^2.49.4",
     "@types/node": "18.15.10",
     "@types/react": "18.0.30",
     "@types/react-dom": "18.0.11",
@@ -43,8 +43,8 @@
     "mdast-util-to-markdown": "^1.5.0",
     "mdast-util-to-string": "^3.1.1",
     "micromark-extension-mdxjs": "^1.0.0",
-    "next": "13.2.4",
-    "openai": "^3.3.0",
+    "next": "^15.3.0",
+    "openai": "^4.94.0",
     "openai-edge": "^1.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -53,6 +53,7 @@
     "typescript": "^4.9.5",
     "unist-builder": "^3.0.1",
     "unist-util-filter": "^4.0.1",
+    "vibe-tools": "^0.60.2",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
